@@ -3,6 +3,7 @@ import Education from "./pages/Education";
 import Experience from "./pages/Experience";
 import Home from "./pages/Home";
 import './App.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
 import {
   BrowserRouter,
   Routes,

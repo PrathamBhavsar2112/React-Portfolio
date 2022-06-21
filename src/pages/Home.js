@@ -60,12 +60,10 @@ function Home() {
                         <div className="card">
                             <div className="card-body">
                                 <h5 className="card-title fw-bold pb-3">Hobbies</h5>
-                                <span class="badge bg-primary me-3 mb-3 p-2">Primary</span>
-                                <span class="badge bg-secondary me-3 mb-3 p-2">Secondary</span>
-                                <span class="badge bg-success me-3 mb-3 p-2">Success</span>
-                                <span class="badge bg-danger me-3 mb-3 p-2">Danger</span>
-                                <span class="badge bg-warning text-dark me-3 mb-3 p-2">Warning</span>
-                                <span class="badge bg-info text-dark me-3 mb-3 p-2">Info</span>
+                                <span class="badge bg-primary me-3 mb-3 p-2">Cricket</span>
+                                <span class="badge bg-secondary me-3 mb-3 p-2">Video games</span>
+                                <span class="badge bg-success me-3 mb-3 p-2">Music</span>
+                                <span class="badge bg-danger me-3 mb-3 p-2">Reading Books</span>
                             </div>
                         </div>
                     </div>
